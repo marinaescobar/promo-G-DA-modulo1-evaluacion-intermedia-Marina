@@ -1,4 +1,5 @@
-# Evaluación intermedia Módulo 1: Descubre el poder de Python
+# Evaluación intermedia 
+# Módulo 1: Descubre el poder de Python
 
 Compilación de ejercicios para evaluar nociones en Python. 
 
